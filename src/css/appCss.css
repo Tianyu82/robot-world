@@ -1,0 +1,19 @@
+.body{
+    height: 3000px;
+    width:2000px;
+    background-image: url("../asset/outerSpace.jpg");
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+.bar1{
+    text-align: center;
+    font-size: 1.4em;
+    height: 2.0em;
+    border-radius: 5px;
+    border: 2px solid #c8cccf;
+}
